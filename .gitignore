@@ -1,0 +1,28 @@
+# Ignora arquivos de projeto e configurações do Code::Blocks
+*.depend
+*.layout
+*.cbp
+*.workspace
+
+# Ignora diretórios de compilação comuns
+/bin/
+/obj/
+/build/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.out
+*.a
+*.lib
+
+# Arquivos temporários do sistema
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# Arquivos de log e debug
+*.log
+*.gch
