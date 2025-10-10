@@ -1,0 +1,1 @@
+Repositório com os exercícios que vou fazer na faculdade usando a linguagem C.
