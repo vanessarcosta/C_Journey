@@ -34,9 +34,7 @@ int main()
             /* aceita somente quando c <= b (para evitar permutações) */
             if (terceiraParcela <= segundaParcela) {
                 somas++;
-                /* opcional: imprimir a decomposição
-                printf("%d + %d + %d\n", primeiraParcela, segundaParcela, terceiraParcela);
-                */
+
             }
 
             segundaParcela++;
